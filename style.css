@@ -1,0 +1,29 @@
+.main{
+    border: 2px solid black;
+width: 250px;
+margin: 0 auto;
+}
+.input{
+
+    width: 97%;
+    background-color: darkgrey;
+    color: white;
+}
+.clear{
+    width: 100%;
+    background-color: red;
+    margin-top: 10px;
+}
+.btn{
+    background-color: black;
+    width: 45px;
+    margin: 5px;
+    color: white    ;
+}
+.equal{
+    width: 99px;
+    background-color: black;
+    margin: 10px;
+    color: white;
+}
+
